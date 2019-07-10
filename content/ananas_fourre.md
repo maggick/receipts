@@ -1,7 +1,6 @@
 Title: Ananas fourré aux fruits
 Date: 1970-02-01
-Category: Dessert
-
+Category: Desserts
 
 ## Ingrédients
 

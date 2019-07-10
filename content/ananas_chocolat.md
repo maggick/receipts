@@ -1,6 +1,6 @@
 Title: Un ananas parfumé au chocolat
 Date:1970-02-01
-Category:Dessert
+Category: Desserts
 
 Pour 4 personnes
 
