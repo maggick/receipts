@@ -1,6 +1,6 @@
 Title: Dessert Saint Valentin
 Category: Desserts
-Date : 1970-01-01
+Date: 1970-01-01
 
 Préparation : 10 minutes
 Pas de cuisson

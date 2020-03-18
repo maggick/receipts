@@ -1,6 +1,6 @@
 Title: Recettes faciles et rafraichissantes aux fraises
 Date: 1969-08-04
-Category: Dessert
+Category: Desserts
 
 ## Ingrédients
 

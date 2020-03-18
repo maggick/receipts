@@ -1,6 +1,6 @@
 Title: Pâte feuilletée
 Date: 1969-10-13
-Category: Pâte
+Category: Pâtes
 
 ## Ingrédients
 

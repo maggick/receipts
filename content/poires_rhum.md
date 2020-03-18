@@ -1,5 +1,6 @@
 Title: Poires au rhum
 Date: 1969-08-20
+Category: Desserts
 
 ## Ingrédients
 

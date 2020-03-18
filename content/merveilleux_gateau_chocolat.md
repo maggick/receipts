@@ -1,5 +1,5 @@
 Title: Le Merveilleux gâteau au chocolat
-Catgeory: Desserts
+Category: Desserts
 Date: 1969-12-28
 
 Préparation : 40 minutes + repos

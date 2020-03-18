@@ -1,6 +1,6 @@
 Title: Sevillan
 Date: 1968-12-22
-Category Desserts
+Category: Desserts
 
 Préparation 20 minutes
 Cuisson 30 minutes

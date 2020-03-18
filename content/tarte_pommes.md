@@ -1,5 +1,5 @@
 Title: Tarte aux Pommes
-Category: Dessert
+Category: Desserts
 Date: 1969-05-04
 
 Cuisson et préparation : 40 minutes

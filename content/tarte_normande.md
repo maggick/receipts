@@ -1,6 +1,6 @@
 Title: La tarte Normande
 Date: 1969-07-20
-Category: Dessert
+Category: Desserts
 
 ## Ingrédient
 

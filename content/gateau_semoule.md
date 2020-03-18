@@ -1,4 +1,4 @@
-Title Gâteau de semoule
+Title: Gâteau de semoule
 Date:1969-11-17
 Category: Desserts
 
