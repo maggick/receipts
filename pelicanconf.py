@@ -22,4 +22,4 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 10
 
 STATIC_PATHS = ['extra/.nojekyll']
-
+EXTRA_PATH_METADATA = {'extra/.nojekyll':{'path':'.nojekyll'},}
