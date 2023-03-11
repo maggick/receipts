@@ -38,7 +38,7 @@ jobs:
             ${{ runner.os }}-pip-
 
       - name: Install dependencies
-        run: python3 -m pip install -r ./requirements.txt
+        run: python3 -m pip install pelican
 
       - name: grab the latest published version in order to not erase rss feed
         run:  git clone --branch gh-pages https://github.com/maggick/recettes output
