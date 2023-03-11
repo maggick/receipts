@@ -10,22 +10,22 @@ Pour 6 personnes
 
 ### Pâte
 
-250 grammes de farine
-125 grammes de beurre
-1 jaune d'œuf
-une demie cuillerée à café de sel fin
-une demie cuillerée à café de sucre en poudre
-un demi verre d'eau environ
+* 250 grammes de farine
+* 125 grammes de beurre
+* 1 jaune d'œuf
+* une demie cuillerée à café de sel fin
+* une demie cuillerée à café de sucre en poudre
+* un demi verre d'eau environ
 
 ### Garniture
 
-6 belles pommes
-Cannelle
-Gingembre en poudre
-zeste de citron
-quelques noisettes de beurre
-quatre cuillerées à soupe de sucre brun
-crème fouettée (facultatif)
+* 6 belles pommes
+* Cannelle
+* Gingembre en poudre
+* zeste de citron
+* quelques noisettes de beurre
+* quatre cuillerées à soupe de sucre brun
+* crème fouettée (facultatif)
 
 ## Préparation
 
@@ -50,4 +50,4 @@ Servir tiède.
 
 Vin conseillé : un Vouvray bien frais.
 
-*source* Echo de la mode, numéro 18, 4/10 Mai 1969
+*Source :* Echo de la mode, numéro 18, 4/10 Mai 1969

@@ -4,14 +4,14 @@ Date: 1969-12-17
 
 ## Ingrédients
 
-20 cl d'eau
-100 grammes de beurre
-75 grammes de sucre
-150 grammes de farine
-4 gros œufs
-200 grammes de crème fraiche
-50 grammes de poudre d'amande
-Sucre glace impalpable
+* 20 cl d'eau
+* 100 grammes de beurre
+* 75 grammes de sucre
+* 150 grammes de farine
+* 4 gros œufs
+* 200 grammes de crème fraiche
+* 50 grammes de poudre d'amande
+* Sucre glace impalpable
 
 ## Préparation
 
@@ -29,5 +29,5 @@ fouettée avec 60 grammes de sucre en poudre et 50 grammes de poudre d'amande.
 
 Reformer les choux et saupoudrez de sucre glace impalpable.
 
-*source* Femmes d'aujourd'hui, numéro 1285, 17 décembre 1969
+*Source :* Femmes d'aujourd'hui, numéro 1285, 17 décembre 1969
 

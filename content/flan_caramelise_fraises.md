@@ -6,17 +6,17 @@ Pour 6 personnes
 
 ## Ingrédients
 
-6 œufs entiers
-150 grammes de sucre en poudre
-1 pincée de sel
-1 pincée de zeste de citron ou d'orange râpé
-1 litre de lait
-1/2 gousse de vanille (facultatif)
+* 6 œufs entiers
+* 150 grammes de sucre en poudre
+* 1 pincée de sel
+* 1 pincée de zeste de citron ou d'orange râpé
+* 1 litre de lait
+* 1/2 gousse de vanille (facultatif)
 
 Caramel :
-10 morceaux de sucre
-2 cuillères à soupe d'eau
-Fraises à volonté
+* 10 morceaux de sucre
+* 2 cuillères à soupe d'eau
+* Fraises à volonté
 
 ## Préparation
 
@@ -42,8 +42,8 @@ plat de service sur l'ouverture du moule et retournez brusquement pour démoulez
 le flan.
 
 Si vous sentez une résistance, plongez le moule quelques secondes dans de l'eau
-très chaude. 
+très chaude.
 
 Décorez de fraises équeutées.
 
-*source* Femmes d'aujourd'hui, numéro 1257, 4 Juin 1969
+*Source :* Femmes d'aujourd'hui, numéro 1257, 4 Juin 1969

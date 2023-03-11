@@ -4,10 +4,10 @@ Date: 1969-09-24
 
 ## Ingrédients
 
-[pâte brisée](./pate_brisee.md)
-120 grammes de beurre
-120 grammes de sucre
-3 œufs
+* [pâte brisée](./pate_brisee.md)
+* 120 grammes de beurre
+* 120 grammes de sucre
+* 3 œufs
 
 ## Préparation
 
@@ -27,4 +27,4 @@ surface de la tarte soit bien dorée et que la pâte elle-même soit cuite à po
 Attendez 10 à 15 minutes avant de démouler et servez la tarte encore tiède si
 possible ou refroidie sur grille.
 
-*Source* Femmes d'aujourd'hui, numéro 1273, 24 septembre 1969
+*Source :* Femmes d'aujourd'hui, numéro 1273, 24 septembre 1969

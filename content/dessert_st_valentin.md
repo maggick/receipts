@@ -9,10 +9,10 @@ Pas de cuisson
 
 Pour 6 personnes
 
-6 petits suisses
-3 œufs
-3 cuillères à soupe de crème fraiche 
-[mot illisible] de café (vendu dans tous les magasins et alimentation) ou café
+* 6 petits suisses
+* 3 œufs
+* 3 cuillères à soupe de crème fraiche 
+* [mot illisible] de café (vendu dans tous les magasins et alimentation) ou café
 soluble
 
 ## Préparation
@@ -25,5 +25,5 @@ Incorporez les blancs battus en neige.
 
 Servir bien glacé dans des ramequins.
 
-*source* : Un Jour, numéro 6
+*Source* : Un Jour, numéro 6
 

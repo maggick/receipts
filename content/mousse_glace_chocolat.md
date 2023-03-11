@@ -6,15 +6,15 @@ Category: Desserts
 
 Pour 6 personnes
 
-140 grammes de chocolat à cuire
-50 cl de lait
-1 cuillère à café bombé de nescafé
-20 grammes de gélatine
-130 grammes de sucre en poudre
-4 jaunes d'œufs
-500 grammes de crème fraiche
-1 sachet de sucre vanillé
-du chocolat granulé
+* 140 grammes de chocolat à cuire
+* 50 cl de lait
+* 1 cuillère à café bombé de nescafé
+* 20 grammes de gélatine
+* 130 grammes de sucre en poudre
+* 4 jaunes d'œufs
+* 500 grammes de crème fraiche
+* 1 sachet de sucre vanillé
+* du chocolat granulé
 
 ## Préparation
 
@@ -37,4 +37,4 @@ réfrigérateur tout une nuit ou le temps équivalent.
 
 Démoulez au moment de servir et garnissez la base de chocolat granulé.
 
-*Source* Femmes d'aujourd'hui, numèro 1273, 24 septembre 1969
+*Source :* Femmes d'aujourd'hui, numèro 1273, 24 septembre 1969

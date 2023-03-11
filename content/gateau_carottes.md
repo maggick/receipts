@@ -8,12 +8,12 @@ Préparation et cuisson : 55 minutes
 
 Pour 4 personnes
 
-150 grammes de farine
-150 grammes de carottes râpées crues
-150 grammes de sucre
-150 grammes de beurre
-un demi sachet de levure
-1 œuf
+* 150 grammes de farine
+* 150 grammes de carottes râpées crues
+* 150 grammes de sucre
+* 150 grammes de beurre
+* un demi sachet de levure
+* 1 œuf
 
 ## Préparation
 
@@ -25,4 +25,4 @@ Vin conseillé pour déguster ce gâteau :
 Je propose un Sainte-croix du Mont cru frais ou un graves qui est moins sucré
 ou encore un champagne frappé.
 
-*source* Petit echo de la mode, numéro 18, 4/10 mai 1969
+*Source :* Petit echo de la mode, numéro 18, 4/10 mai 1969

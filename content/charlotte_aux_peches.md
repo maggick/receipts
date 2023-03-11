@@ -4,15 +4,15 @@ Category: Desserts
 
 ## Ingrédients
 
-35 cl de lait
-3 œufs
-175 grammes de sucre
-1 citron
-15 grammes de gélatine en poudre
-5 à 6 pèches fraiches ou en conserve
-Biscuit boudoir
-Confiture d'abricot
-Angélique confite
+* 35 cl de lait
+* 3 œufs
+* 175 grammes de sucre
+* 1 citron
+* 15 grammes de gélatine en poudre
+* 5 à 6 pèches fraiches ou en conserve
+* Biscuit boudoir
+* Confiture d'abricot
+* Angélique confite
 
 ## Préparation
 

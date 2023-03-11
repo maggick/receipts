@@ -4,14 +4,14 @@ Category: Desserts
 
 ## Ingrédient
 
-[Pâte brisée](./pate_brisee.md) ou [pâte feuilletée](./pate_feuilletee.md)
-1 kg de pommes épluchées
-125 grammes de beurre noisette
-50 grammes de sucre semoule et vanillé
-200 grammes de confiture d'abricot
-un œuf
-190 grammes de sucre glace
-jus de citron
+* [Pâte brisée](./pate_brisee.md) ou [pâte feuilletée](./pate_feuilletee.md)
+* 1 kg de pommes épluchées
+* 125 grammes de beurre noisette
+* 50 grammes de sucre semoule et vanillé
+* 200 grammes de confiture d'abricot
+* un œuf
+* 190 grammes de sucre glace
+* jus de citron
 
 ## Préparation
 
@@ -40,5 +40,5 @@ un peu de pâte restante.
 
 Cuisson à feu doux (environ 1 heure)
 
-*source* Echo de la mode, numéro 29, 20/26 Juillet 1969
+*Source :* Echo de la mode, numéro 29, 20/26 Juillet 1969
 

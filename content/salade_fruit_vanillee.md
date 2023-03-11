@@ -6,15 +6,15 @@ Category: Desserts
 
 Pour 6 personnes
 
-500 grammes de poires mures à point
-1 citron
-500 grammes de pêches
-500 grammes d'abricots
-250 grammes de mirabelles ou de reines claudes
-250 grammes de quetsches
-un demi litre d'eau
-200 grammes de sucre
-environ 6 à 8 gouttes d'extrait de vanille liquide
+* 500 grammes de poires mures à point
+* 1 citron
+* 500 grammes de pêches
+* 500 grammes d'abricots
+* 250 grammes de mirabelles ou de reines claudes
+* 250 grammes de quetsches
+* un demi litre d'eau
+* 200 grammes de sucre
+* environ 6 à 8 gouttes d'extrait de vanille liquide
 
 ## Préparation
 
@@ -36,4 +36,4 @@ grande coupe.
 Nappez les du sirop.
 Servez très frais.
 
-*source* Femmes d'aujourd'hui, numéro 1257, 4 aout 1969
+*Source :* Femmes d'aujourd'hui, numéro 1257, 4 aout 1969

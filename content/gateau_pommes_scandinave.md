@@ -4,20 +4,21 @@ Date: 1970-01-28
 
 ## Ingrédients
 
-750 grammes de pommes à cuire
-2 cuillères à soupe d'eau
-2 cuillères à soupe bombées de sucre
-un quart de cuillère à café de cannelle en poudre
-50 grammes de raisins 
-300 grammes de gâteau (génoise ou biscuit roulé) ou 300
-grammes de pain rassis séché au four et écrasé en grosse chapelure puis mélanger
-avec 60 grammes de sucre
-60 grammes de beurre
-Le zeste râpé d'un citron
-1 cuillère à soupe de jus de citron
+* 750 grammes de pommes à cuire
+* 2 cuillères à soupe d'eau
+* 2 cuillères à soupe bombées de sucre
+* un quart de cuillère à café de cannelle en poudre
+* 50 grammes de raisins 
+* 300 grammes de gâteau (génoise ou biscuit roulé) ou 300
+* grammes de pain rassis séché au four et écrasé en grosse chapelure puis mélanger
+* avec 60 grammes de sucre
+* 60 grammes de beurre
+* Le zeste râpé d'un citron
+* 1 cuillère à soupe de jus de citron
 
-Décoration : Sucre glace (impalpable)
-Accompagnement au choix : crème fouettée, crème anglaise
+Décoration :
+* Sucre glace (impalpable)
+* Accompagnement au choix : crème fouettée, crème anglaise
 
 ## Préparation
 
@@ -48,4 +49,4 @@ de sucre.
 Servir le gâteau chaud, tiède ou froid avec l'accompagnent de votre choix (crème
 fouettée ou crème anglaise).
 
-*source* Femmes d'aujourd'hui, numéro 1291, 28 janvier 1970
+*Source :* Femmes d'aujourd'hui, numéro 1291, 28 janvier 1970

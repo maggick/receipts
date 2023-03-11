@@ -28,4 +28,4 @@ immédiatement au minimum [130 degrés].
 
 Cuisez environ une heure.
 
-*Source : Inconnue*
+*Source :* Inconnue

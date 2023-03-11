@@ -9,16 +9,15 @@ Cuisson : 1 heure
 
 Pour 24 gâteaux environs
 
-300 grammes de sucre en poudre
-6 œufs
-7 grammes de sel
-Vanille en poudre
+* 300 grammes de sucre en poudre
+* 6 œufs
+* 7 grammes de sel
+* Vanille en poudre
 
-Pour la garniture
-
-Gelé de groseille [quantité non précisée]
-Fondant
-Essence de café [quantité non précisée]
+Pour la garniture :
+* Gelé de groseille [quantité non précisée]
+* Fondant
+* Essence de café [quantité non précisée]
 
 ## Préparation
 
@@ -44,4 +43,4 @@ Enduisez les de gelé de groseille
 
 Collez les deux à deux en intercalant un peu de fondant parfumé au café
 
- *Source* Echo de la mode, numéro 51, 22/28 décembre 1968
+*Source :* Echo de la mode, numéro 51, 22/28 décembre 1968

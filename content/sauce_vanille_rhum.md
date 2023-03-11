@@ -1,15 +1,15 @@
 Title: Sauce à la vanille et au Rhum
 Date: 1969-09-17
-Category: Desserts
+Category: Sauces
 
 ## Ingrédients
 
-40 cl de lait + 5 à 6 cuillères à soupe [illisible]
-1/2 gousse de vanille
-1 cuillère à soupe de Maïzena
-1 ou 2 œufs
-2 cuillère à soupe de rhum
-sel
+* 40 cl de lait + 5 à 6 cuillères à soupe [illisible]
+* 1/2 gousse de vanille
+* 1 cuillère à soupe de Maïzena
+* 1 ou 2 œufs
+* 2 cuillère à soupe de rhum
+* sel
 
 ## Préparation
 
@@ -26,4 +26,4 @@ de rhum.
 Chauffez sans laisser bouillir et à volonté incorporez à cette crème refroidie
 le ou les blancs d'œufs battus avec du sel.
 
-*Source* Femmes d'aujourd'hui, numéro 1272, 17 septembre 1969
+*Source :* Femmes d'aujourd'hui, numéro 1272, 17 septembre 1969

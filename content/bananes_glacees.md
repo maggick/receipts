@@ -4,13 +4,13 @@ Category: Desserts
 
 ## Ingrédients
 
-8 bananes entières
-1 citron
-1/2 tasse à café de sucre brun
-1/2 tasse à café de sucre blanc
-noix de muscade
-1/4 de tasse de beurre
-1/4 de tasse d'eau
+* 8 bananes entières
+* 1 citron
+* 1/2 tasse à café de sucre brun
+* 1/2 tasse à café de sucre blanc
+* noix de muscade
+* 1/4 de tasse de beurre
+* 1/4 de tasse d'eau
 
 ## Préparation
 
@@ -22,4 +22,4 @@ quart de tasse de beurre fondu et un quart de tasse d'eau froide.
 
 Temps de cuisson : 30 minutes à four modéré [todo temp]. Servir froid.
 
-*source* : Inconnue
+*Source* : Inconnue

@@ -7,15 +7,18 @@ Category: Desserts
 
 pour 6 à 10 pièces selon grandeur
 
-500 grammes de farine
-1 cuillère à café de sel
-50 grammes de beurre
-30 grammes de levure de boulangé
-1 cuillère à café de sucre
-25 cl de lait ou d'eau tiède
+* 500 grammes de farine
+* 1 cuillère à café de sel
+* 50 grammes de beurre
+* 30 grammes de levure de boulangé
+* 1 cuillère à café de sucre
+* 25 cl de lait ou d'eau tiède
+
+## Préparation
+
 **Détail Imporant** : travaillez dans une cuisine bien chauffée, sans courant
 d'air et veillez à ce que tout les ingrédients soient à la température de la
-pièce (environ 20 degrés)
+pièce (environ 20 degrés).
 
 ### Étape 1 : Préparation de la pâte
 
@@ -99,4 +102,4 @@ fondu et les parsemer de graines de sésame, pavot, etc. soit, s'il s'agit d'un
 dessert, rajouter du sucre glace fondu dans très peu d'eau, de chocolat fondu,
 de la confiture, etc.
 
-*Source* Femme d'aujourd'hui, numéro 1275, 8 octobre 1969
+*Source :* Femme d'aujourd'hui, numéro 1275, 8 octobre 1969

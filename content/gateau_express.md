@@ -6,16 +6,16 @@ Category: Desserts
 
 Pour 4 à 6 personnes
 
-125 grammes de beurre
-1 œuf
-200 grammes de sucre
-1 verre de café fort
-gâteau secs
+* 125 grammes de beurre
+* 1 œuf
+* 200 grammes de sucre
+* 1 verre de café fort
+* gâteau secs
 
 décoration :
-Chocolat râpé
-Amandes
-sucre glace
+* Chocolat râpé
+* Amandes
+* sucre glace
 
 ## Préparation
 
@@ -35,4 +35,4 @@ Décorez avec amandes, sucre glace et chocolat râpé.
 
 Mettez au frais.
 
-*source* Petit echo de la mode, numéro 32, 11/17 aout 1968
+*Source :* Petit echo de la mode, numéro 32, 11/17 aout 1968

@@ -7,16 +7,16 @@ Category: Desserts
 
 Pour 6 personnes
 
-6 brioches au sucre
-le jus de 4 oranges
-100 grammes de sucre
-1 cuillère à soupe de Pastis
+* 6 brioches au sucre
+* le jus de 4 oranges
+* 100 grammes de sucre
+* 1 cuillère à soupe de Pastis
 
 Garniture:
-Une orange
-150 grammes de crème fraiche
-2 cuillère à soupe de sucre
-quelques fraises surgelées ou en boites
+* Une orange
+* 150 grammes de crème fraiche
+* 2 cuillère à soupe de sucre
+* quelques fraises surgelées ou en boites
 
 ## Préparation
 
@@ -36,4 +36,4 @@ crème fouettée avec le sucre et d'une fraise.
 Garnissez le plat d'une demi tranche d'orange surmonté d'une fraise et servez
 frais avec le reste de la crème fouetté servi à part.
 
-*Source* Femmes d'aujourd'hui, numéro 1282, 26 novembre 1969
+*Source :* Femmes d'aujourd'hui, numéro 1282, 26 novembre 1969

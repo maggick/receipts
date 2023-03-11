@@ -6,22 +6,22 @@ Category: Desserts
 
 Pour 4 à 6 personnes
 
-50 cl de lait
-1/2 gousse de vanille
-1/2 cuillère à café de sel
-6 cuillères à soupe de semoule (environ 75 grammes)
-30 grammes de beurre
-3 œufs
-75 grammes de raisin sec
-2 cuillères à soupe de rhum
-20 cl d'eau
-50 grammes de fruits confits
-2 cuillères soupe de noisettes moulues
+* 50 cl de lait
+* 1/2 gousse de vanille
+* 1/2 cuillère à café de sel
+* 6 cuillères à soupe de semoule (environ 75 grammes)
+* 30 grammes de beurre
+* 3 œufs
+* 75 grammes de raisin sec
+* 2 cuillères à soupe de rhum
+* 20 cl d'eau
+* 50 grammes de fruits confits
+* 2 cuillères soupe de noisettes moulues
 
-### Décoration
+Décoration:
 
-1/2 pot de gelé de framboise
-50 grammes de cerises confites ou noisettes bâchées
+* 1/2 pot de gelé de framboise
+* 50 grammes de cerises confites ou noisettes bâchées
 
 ## Préparation
 
@@ -42,4 +42,4 @@ hachés.
 
 À volonté, accompagné de [Sauce à la vanille et au rhum](./sauce_vanille_rhum.md).
 
-*Source* Femmes d'aujourd'hui, numéro 1272, 17 septembre 1969
+*Source :* Femmes d'aujourd'hui, numéro 1272, 17 septembre 1969

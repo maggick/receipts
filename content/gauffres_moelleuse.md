@@ -6,12 +6,12 @@ Category: Desserts
 
 Pour 6 gaufres
 
-2 œufs entiers
-100 grammes de sucre
-100 grammes de farine
-le zeste râpé d'un citron
-une pincée de sel
-2 cuillère à soupe de crème fraiche
+* 2 œufs entiers
+* 100 grammes de sucre
+* 100 grammes de farine
+* le zeste râpé d'un citron
+* une pincée de sel
+* 2 cuillère à soupe de crème fraiche
 
 ## Préparation
 
@@ -27,4 +27,4 @@ spéciale à deux pointes.
 Il faut compter environ 15 minutes avant que le fer atteigne sa température de
 cuisson.
 
-*source* Femmes d'aujourd'hui, numéro 1295, 25 février 1970
+*Source :* Femmes d'aujourd'hui, numéro 1295, 25 février 1970

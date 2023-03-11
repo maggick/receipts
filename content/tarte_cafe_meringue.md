@@ -4,14 +4,14 @@ Category: Desserts
 
 ## Ingrédients
 
-40 grammes de maïzena
-2 cuillères dessert de café en poudre
-50 grammes de sucre
-2 jaunes d'œufs
-15 grammes de beurre
-30 grammes de noix bâchées
-1 [pâte brisée](./pate_brisee.md)
-[meringues Suisse](./mereingue.md)
+* 40 grammes de maïzena
+* 2 cuillères dessert de café en poudre
+* 50 grammes de sucre
+* 2 jaunes d'œufs
+* 15 grammes de beurre
+* 30 grammes de noix bâchées
+* 1 [pâte brisée](./pate_brisee.md)
+* [meringues Suisse](./mereingue.md)
 
 ## Préparation
 
@@ -31,4 +31,4 @@ Versez la crème refroidit dans une croute de [pâte brisée](./pate_brisee.md) 
 Décorez de [meringue Suisse](./mereingue.md) que vous ferez durcir et colorer à
 feu doux.
 
-*Source* Femmes d'aujourd'hui, numéro 1267, 13 aout 1969
+*Source :* Femmes d'aujourd'hui, numéro 1267, 13 aout 1969

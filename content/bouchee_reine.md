@@ -21,4 +21,4 @@ Une fois les croûtes levées et cuites, enlever le couvercle avec la pointe du
 couteau. Passez alors le doigt au centre et contre les parois pour en assujettir
 la pâte.
 
-*source* petit echo de la mode, numéro 41, 13/19 Octobre 1969
+*Source :* petit echo de la mode, numéro 41, 13/19 Octobre 1969

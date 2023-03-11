@@ -6,12 +6,12 @@ Category: Desserts
 
 Pour 4 personnes
 
-Biscuit à la cuiller [boudoir]
-1 confiture au choix
-2 œufs
-10 cl de lait
-50 grammes de sucre
-alcool fort (rhum, Kirsch, Calvados, etc.)
+* Biscuit à la cuiller [boudoir]
+* 1 confiture au choix
+* 2 œufs
+* 10 cl de lait
+* 50 grammes de sucre
+* alcool fort (rhum, Kirsch, Calvados, etc.)
 
 ## Préparation
 
@@ -23,4 +23,4 @@ arôme au choix (rhum, Kirsch, etc.)
 
 Cuisez 25 minutes à four moyen [150°C à 180°C] et servez chaud.
 
-*source* Femmes d'aujourd'hui, numéro 1295, 25 février 1970
+*Source :* Femmes d'aujourd'hui, numéro 1295, 25 février 1970

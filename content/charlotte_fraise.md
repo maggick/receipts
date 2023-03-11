@@ -6,21 +6,21 @@ Date: 1969-06-04
 
 Pour 4 personnes
 
-125 grammes de biscuits à la cuiller
-200 grammes de crème fraiche
-50 grammes de sucre en poudre
-10Cl de Kirsch
-4 cuillères à soupe d'eau
-30 grammes de sucre
-500 grammes de fraises
+* 125 grammes de biscuits à la cuiller
+* 200 grammes de crème fraiche
+* 50 grammes de sucre en poudre
+* 10Cl de Kirsch
+* 4 cuillères à soupe d'eau
+* 30 grammes de sucre
+* 500 grammes de fraises
 
 Crème anglaise [todo recette] :
-3 jaunes d'œufs
-1 cuillère à café de Maïzena
-une pincée de sel
-60 grammes de sucre
-40Cl de lait
-Parfum facultatif : vanille ou Kirsch
+* 3 jaunes d'œufs
+* 1 cuillère à café de Maïzena
+* une pincée de sel
+* 60 grammes de sucre
+* 40Cl de lait
+* Parfum facultatif : vanille ou Kirsch
 
 ## Préparation
 
@@ -38,14 +38,14 @@ le réfrigérateur. Démoulez au moment de servir et entourez du reste des frais
 
 Accompagnez de crème anglaise, tiède ou froide. Battez jaunes d'œufs avec
 sucre, sel, maïzena et versez dessus le lait bouilli et chaud. Portez sur le feu
-doux et faites épaissir en remuant. 
+doux et faites épaissir en remuant.
 
 Retirez du feu dès que la crème commence à mousser et à blanchir au sommet.
-Ajoutez y vanille ou liqueur. 
+Ajoutez y vanille ou liqueur.
 
 Saupoudrez d'un peu de sucre (qui empêche la formation de peau à la surface) et
 laissez tiédir ou refroidir.
 
 Servez cette crème en ravier.
 
-*source*  Femmes d'aujourd'hui, numéro 1257, 4 Juin 1969
+*Source :*  Femmes d'aujourd'hui, numéro 1257, 4 Juin 1969

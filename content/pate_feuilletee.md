@@ -6,10 +6,10 @@ Category: Pâtes
 
 Pour 6 bouchées
 
-250 grammes de farine
-250 grammes de beurre
-sel
-1 verre d'eau
+* 250 grammes de farine
+* 250 grammes de beurre
+* sel
+* 1 verre d'eau
 
 ## Préparation
 
@@ -35,4 +35,4 @@ tour".
 Laissez reposer 5 minutes entre chaque tour.
 Faites six tour.
 
-*source* Echo de la mode, numéro 41, 13/19 Octobre 1969
+*Source :* Echo de la mode, numéro 41, 13/19 Octobre 1969

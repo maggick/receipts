@@ -6,24 +6,24 @@ Category: Desserts
 
 ### Au vin
 
-50 cl de bière
-500 grammes de fraises
-jus de citron
-75 cl de vin rouge ou de vin blanc doux
+* 50 cl de bière
+* 500 grammes de fraises
+* jus de citron
+* 75 cl de vin rouge ou de vin blanc doux
 
 ### A la crème
 
-500 grammes de fraises
-Crème liquide ou fouettée
-sucre en poudre
+* 500 grammes de fraises
+* Crème liquide ou fouettée
+* sucre en poudre
 
 ### En mousse
 
-300 grammes de fraises
-1 blanc d’œuf
-une pincé de sel
-175 grammes de sucre
-250 grammes de crème fouettée
+* 300 grammes de fraises
+* 1 blanc d’œuf
+* une pincé de sel
+* 175 grammes de sucre
+* 250 grammes de crème fouettée
 
 ## Préparations
 
@@ -48,4 +48,4 @@ crème fouettée.
 Mettez la préparation dans un saladier ou des coupes et laissez au moins 3
 heures au réfrigérateur avant de servir.
 
-*source* Femmes d'aujourd'hui, numéro 1257, 4 Aout 1969
+*Source :* Femmes d'aujourd'hui, numéro 1257, 4 Aout 1969

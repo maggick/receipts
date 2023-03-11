@@ -4,10 +4,10 @@ Category: Desserts
 
 ## Ingrédients
 
-1 kilo de pomme
-sucre
-sirop de framboise
-20 cl de crème
+* 1 kilo de pomme
+* sucre
+* sirop de framboise
+* 20 cl de crème
 
 ## Préparation
 
@@ -20,4 +20,4 @@ sucrez et laissez refroidir en fouettant.
 Ajouter à cette mousse du sirop de framboise et 20 cl de crème.
 Servir frais.
 
-*Source* Femmes d'aujourd'hui, numéro 1273, 24 septembre 1969
+*Source :* Femmes d'aujourd'hui, numéro 1273, 24 septembre 1969

@@ -1,5 +1,5 @@
 Title: La bavaroise à la Marquise
-Date:1960-12-14
+Date:1969-12-14
 Category: Desserts
 
 
@@ -7,10 +7,10 @@ Category: Desserts
 
 Pour 5 à 6 personnes
 
-un demi litre de lait
-150 grammes de chocolat granulé
-5 œufs
-8 grandes gélatines
+* un demi litre de lait
+* 150 grammes de chocolat granulé
+* 5 œufs
+* 8 grandes gélatines
 
 préparation et cuisson : 30 minutes + repos
 
@@ -30,4 +30,4 @@ moule, mettez à la glace ou au froid.
 
 Démoulez sur un plat garni d'un ligne avant de servir/
 
-*source* : Petit echo de la mode, numéro 50, 14/20 décembre 1969
+*Source* : Petit echo de la mode, numéro 50, 14/20 décembre 1969

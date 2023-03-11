@@ -4,17 +4,17 @@ Category: Desserts
 
 ## Ingrédients
 
-Fruits : Cerises dénoyautées, prunes, abricots, pommes
-beurre
+* Fruits : Cerises dénoyautées, prunes, abricots, pommes
+* beurre
 
 ### Pâte levée
 
-250 grammes de farine
-20 grammes de levure de boulanger
-3 cuillère à soupe de lait
-30 grammes de sucre
-sel
-30 grammes de beurre
+* 250 grammes de farine
+* 20 grammes de levure de boulanger
+* 3 cuillère à soupe de lait
+* 30 grammes de sucre
+* sel
+* 30 grammes de beurre
 
 ## Préparation
 
@@ -27,4 +27,4 @@ lèvera pendant au moins deux heures.
 
 Saupoudrez de sucre et faites cuire environ 20 minutes à four chaud [todo temp]
 
-*source* Femmes d'aujourd'hui, numéro 1257, 4 Juin 1969
+*Source :* Femmes d'aujourd'hui, numéro 1257, 4 Juin 1969

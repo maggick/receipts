@@ -4,13 +4,13 @@ Category: Desserts
 
 ## Ingrédients
 
-6 poires (Williams de préférence)
-jus de citron (équivalant du jus de 3 citrons)
-250 grammes de sucre
-40 cl d’eau
-2 cuillères à café de maïzena
-4 cuillères à soupe de rhum
-Cerises d'angélique confites
+* 6 poires (Williams de préférence)
+* jus de citron (équivalant du jus de 3 citrons)
+* 250 grammes de sucre
+* 40 cl d’eau
+* 2 cuillères à café de maïzena
+* 4 cuillères à soupe de rhum
+* Cerises d'angélique confites
 
 ## Préparation
 
@@ -32,5 +32,5 @@ confites.
 
 Servez frais avec des biscuits.
 
-*source* Femmes d'aujourd'hui, numéro 1268, 20 aout 1969
+*Source :* Femmes d'aujourd'hui, numéro 1268, 20 aout 1969
 

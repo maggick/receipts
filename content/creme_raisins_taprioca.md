@@ -4,14 +4,14 @@ Category: Desserts
 
 ## Ingrédients
 
-80 cl de lait
-5 cuillères à soupe de taprioca
-1/2 gousse de vanille
-5 cuillère à soupe de sucre
-1 pincée de sel
-3 œufs
-200 grammes de sucre
-raisins sec TODO quantité
+* 80 cl de lait
+* 5 cuillères à soupe de taprioca
+* 1/2 gousse de vanille
+* 5 cuillère à soupe de sucre
+* 1 pincée de sel
+* 3 œufs
+* 200 grammes de sucre
+* raisins sec TODO quantité
 
 ## Préparation
 
@@ -33,5 +33,5 @@ Faites fondre et légèrement caramélisé, 200 grammes de sucre, ajoutez y une
 tasse et demie d'eau et deux tasses de raisins secs sans pépins, préalablement
 gonflés dans de l'eau tiède, allongée ou non de rhum ou de vin blanc doux.
 
-*source* Femmes d'aujourd'hui, numéro 1285, 17 décembre 1969
+*Source :* Femmes d'aujourd'hui, numéro 1285, 17 décembre 1969
 

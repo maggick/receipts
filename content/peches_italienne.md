@@ -4,14 +4,14 @@ Category: Desserts
 
 ## Ingrédients
 
-4 grosses pêches ou abricots
-4 biscuit à la cuillère
-Amandes mondée ou en poudre
-sucre
-10 cl de vin blanc
-beurre
-sucre
-liqueur, si désiré
+* 4 grosses pêches ou abricots
+* 4 biscuit à la cuillère
+* Amandes mondée ou en poudre
+* sucre
+* 10 cl de vin blanc
+* beurre
+* sucre
+* liqueur, si désiré
 
 ## Préparation
 
@@ -31,4 +31,4 @@ soient tendres.
 Arrosez les immédiatement de liqueur et de sucre et faites flamber ou servez tel
 quel, chaud ou froid.
 
-*Source* Femmes d'aujourd'hui, numéro 1266, 6 aout 1969
+*Source :* Femmes d'aujourd'hui, numéro 1266, 6 aout 1969

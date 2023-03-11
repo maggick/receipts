@@ -4,12 +4,12 @@ Category: Plats
 
 ## Ingrédients
 
-750 grammes de pomme de terre farineuse
-2 œufs
-90 grammes de beurre
-farine
-24 prunes
-30 grammes de mie de pain
+* 750 grammes de pomme de terre farineuse
+* 2 œufs
+* 90 grammes de beurre
+* farine
+* 24 prunes
+* 30 grammes de mie de pain
 
 ## Préparation
 
@@ -31,5 +31,5 @@ pain rassis, émiettés et doré.
 
 Servir chaud avec du sucre.
 
-*source* : Femmes d'aujourd'hui, numéro 1267, 13 aout 1969
+*Source* : Femmes d'aujourd'hui, numéro 1267, 13 aout 1969
 

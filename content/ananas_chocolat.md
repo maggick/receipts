@@ -2,9 +2,9 @@ Title: Un ananas parfumé au chocolat
 Date:1970-02-01
 Category: Desserts
 
-Pour 4 personnes
-
 ## Ingrédients
+
+Pour 4 personnes
 
   * 1 ananas
   * 2 ou 3 bananes
@@ -31,4 +31,4 @@ Posez sur chaque tranche quelques cuillerées de crème de bananes. Garnissez av
 du chocolat râpé et servez après avoir fait refroidir ce desserts quelques
 heures au réfrigérateur.
 
-*source* : Petit echo de la mode, numéro 5, 1/7 février 1970
+*Source* : Petit echo de la mode, numéro 5, 1/7 février 1970

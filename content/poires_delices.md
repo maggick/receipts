@@ -8,13 +8,13 @@ Préparation et cuisson : 30 minutes
 
 Pour 6 personnes
 
-1 boite de poires au sirop
-1 flan instantané vanille (Alsa)
-100 grammes de sucre fin
-un demi litre de lait
-250 grammes de crème fraiche
-1 cuillère à soupe de Kirsch
-2 dosettes caramel Alsa
+* 1 boite de poires au sirop
+* 1 flan instantané vanille (Alsa)
+* 100 grammes de sucre fin
+* un demi litre de lait
+* 250 grammes de crème fraiche
+* 1 cuillère à soupe de Kirsch
+* 2 dosettes caramel Alsa
 
 ## Préparation
 
@@ -31,4 +31,4 @@ sucre fin. Masquez les poires avec la crème chantilly.
 Gardez au froid. Pour servir, décorez votre dessert avec deux dosettes de caramel
 Alsa.
 
-*source* Petit echo de la mode, numéro 52, 29 décembre 1968
+*Source :* Petit echo de la mode, numéro 52, 29 décembre 1968

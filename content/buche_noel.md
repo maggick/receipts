@@ -4,13 +4,13 @@ Category: Desserts
 
 ## Ingrédients
 
-6 œufs
-350 grammes de sucre
-2 batons de chocolat
-2 cuillères à café de nescafé
-100 gramme de beurre
-150 grammes de farine
-sel
+* 6 œufs
+* 350 grammes de sucre
+* 2 batons de chocolat
+* 2 cuillères à café de nescafé
+* 100 gramme de beurre
+* 150 grammes de farine
+* sel
 
 ## Préparation
 
@@ -44,4 +44,4 @@ Mettez au frais et garnissez à volonté. Le même biscuit peut être tartiné d
 confiture, puis simplement saupoudré de sucré glace tamisé ce qui constitue un dessert
 plus léger.
 
-*source* Femmes d'aujourd'hui, numéro 1285, 17 décembre 1969
+*Source :* Femmes d'aujourd'hui, numéro 1285, 17 décembre 1969

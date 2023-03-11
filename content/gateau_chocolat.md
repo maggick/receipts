@@ -6,27 +6,27 @@ pour 8 à 10 personnes
 
 ## Ingrédients
 
-175 grammes de beurre ou margarine
-250 grammes de sucre
-4 œufs
-50 grammes de cacao en poudre
-1 paquet de sucre vanillé
-150 grammes de farine
-1 cuillère à café bombée de levure en poudre ou 1/4 de cuillère à café de bicarbonate de soude (fonce la pâte en cuisant)
-20 cl de café fort
-1 pincée de sel
-1 moule beurré, tapissé de chapelure
+* 175 grammes de beurre ou margarine
+* 250 grammes de sucre
+* 4 œufs
+* 50 grammes de cacao en poudre
+* 1 paquet de sucre vanillé
+* 150 grammes de farine
+* 1 cuillère à café bombée de levure en poudre ou 1/4 de cuillère à café de bicarbonate de soude (fonce la pâte en cuisant)
+* 20 cl de café fort
+* 1 pincée de sel
+* 1 moule beurré, tapissé de chapelure
 
 pour la garniture:
-marmelade d'orange ou confiture de cerise
+* marmelade d'orange ou confiture de cerise
 
 Glaçage:
-40 grammes de chocolat à cuire, râpé ou 15 grammes de cacao en poudre
-1 cuillère à soupe d'eau
-125 grammes de sucre glace
+* 40 grammes de chocolat à cuire, râpé ou 15 grammes de cacao en poudre
+* 1 cuillère à soupe d'eau
+* 125 grammes de sucre glace
 
-décor:
-Demi amande mondé, cerise confites
+Décor:
+* Demi amande mondé, cerise confites
 
 ## Préparation
 

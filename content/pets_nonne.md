@@ -9,14 +9,14 @@ Cuisson : 5 à 7 minutes
 
 Pour 6 personnes
 
-Pâte à choux :
-250 grammes de farine
-125 grammes de beurre
-8 œufs
-40Cl d'eau
-25 grammes de sucre en poudre
-1 pincée de sel
-1 bassine de friture fraiche
+* Pâte à choux
+* 250 grammes de farine
+* 125 grammes de beurre
+* 8 œufs
+* 40Cl d'eau
+* 25 grammes de sucre en poudre
+* 1 pincée de sel
+* 1 bassine de friture fraiche
 
 ## Préparation
 

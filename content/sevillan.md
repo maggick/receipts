@@ -9,13 +9,13 @@ Cuisson 30 minutes
 
 Pour 6 personnes
 
-115 grammes de beurre
-115 grammes de sucre
-2 œufs
-115 grammes de farines
-2 oranges
-1 cuillerée à café de levure chimique
-115 grammes de sucre glace
+* 115 grammes de beurre
+* 115 grammes de sucre
+* 2 œufs
+* 115 grammes de farines
+* 2 oranges
+* 1 cuillerée à café de levure chimique
+* 115 grammes de sucre glace
 
 ## Préparation
 

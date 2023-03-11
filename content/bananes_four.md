@@ -4,9 +4,9 @@ Category: Desserts
 
 ## Ingrédients
 
-6 bananes
-60 grammes de gelée de framboise
-80 grammes de sucre en poudre
+* 6 bananes
+* 60 grammes de gelée de framboise
+* 80 grammes de sucre en poudre
 
 ## Préparation
 
@@ -19,4 +19,4 @@ Saupoudrez largement de sucre et finir par une couche de gelée de framboises.
 
 Faire cuire à four moyen (150°C à 180°C) pendant 20 à 25 minutes.
 
-*source* : Inconnue
+*Source* : Inconnue

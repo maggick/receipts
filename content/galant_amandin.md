@@ -9,12 +9,12 @@ Cuisson : 50 minutes (thermostat 4 puis 5)
 
 Pour 4 personnes
 
-125 grammes de sucre semoule
-2 œufs
-25 grammes d'amandes hachées
-100 grammes de poudre d'amandes
-1 orange juteuse
-1 cuillerée à soupe de gelée d'orange
+* 125 grammes de sucre semoule
+* 2 œufs
+* 25 grammes d'amandes hachées
+* 100 grammes de poudre d'amandes
+* 1 orange juteuse
+* 1 cuillerée à soupe de gelée d'orange
 
 ## Préparation
 
@@ -34,4 +34,4 @@ Faire cuire à four chaud.
 Avant de servir, badigeonnez les bords avec un peu de gelée d'orange et
 saupoudrez les de quelques amandes hachées et grillées.
 
-*source* Petit echo de la mode, numéro 11[illisible], 16/22 mars 1969
+*Source :* Petit echo de la mode, numéro 11[illisible], 16/22 mars 1969

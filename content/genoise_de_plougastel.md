@@ -9,11 +9,11 @@ Cuisson : 20 minutes
 
 Pour 6 personnes
 
-une génoise
-750 grammes de fraises
-1 verre à liqueur de grand Marnier
-de la gelé de fraise
-de la crème chantilly
+* une génoise
+* 750 grammes de fraises
+* 1 verre à liqueur de grand Marnier
+* de la gelé de fraise
+* de la crème chantilly
 
 ## Préparation
 
@@ -24,4 +24,4 @@ pyramide de fraise bien saines préalablement passées dans la gelée de fraise.
 À l'aide d'une poche munie d'une douille cannelée, faites un quadrillé à la
 chantilly sur les fraises et autour des rosaces.
 
-*Source* Echo de la mode, 3-9 aout 1969
+*Source :* Echo de la mode, 3-9 aout 1969

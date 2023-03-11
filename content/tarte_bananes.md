@@ -4,15 +4,15 @@ Category: Desserts
 
 ## Ingrédient
 
-[une croute de pâte cuite](./tartes_acidulees.md)
-3 oranges
-1 oeuf entier
-50 grammes de sucre
-10 Cl d'eau
-2 grosses cuilères à soupe de marmelade d'orange
-20 grammes de beurre
-crème
-sirop de sucre
+* [une croute de pâte cuite](./tartes_acidulees.md)
+* 3 oranges
+* 1 oeuf entier
+* 50 grammes de sucre
+* 10 Cl d'eau
+* 2 grosses cuilères à soupe de marmelade d'orange
+* 20 grammes de beurre
+* crème
+* sirop de sucre
 
 ## Préparation
 
@@ -32,5 +32,5 @@ Versez la crème de jus d'orange et d'oeuf dans la croute et laissez durcir.
 
 Garnissez des quartiers d'oranges pochés et napés du sirop refroidi.
 
-*source* Femmes d'aujourd'hui, numéro 1268, 20 aout 1969
+*Source :* Femmes d'aujourd'hui, numéro 1268, 20 aout 1969
 

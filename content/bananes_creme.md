@@ -4,10 +4,10 @@ Category: Desserts
 
 ## Ingrédients
 
-6 bananes bien mûres
-sucre en poudre
-jus de citron
-crème fraiche
+* 6 bananes bien mûres
+* sucre en poudre
+* jus de citron
+* crème fraiche
 
 ## Préparation
 
@@ -18,4 +18,4 @@ environ.
 
 Bien mélanger ensuite et recouvrir au moment de servir de crème fraiche.
 
-*source* Inconnue
+*Source :* Inconnue

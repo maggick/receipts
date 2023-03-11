@@ -4,16 +4,16 @@ Date: 1970-01-01
 
 ## Ingrédients
 
-[todo quantités] 
+[todo quantités]
 
-fraises
-framboises
-poires
-abricots
-bananes
-ananas
-sucre semoule
-crème vanille
+* fraises
+* framboises
+* poires
+* abricots
+* bananes
+* ananas
+* sucre semoule
+* crème vanille
 
 ## Préparation
 
@@ -27,4 +27,4 @@ Dans un moule à charlotte
 Au fond 8 rangs (ou 2) superposées de biscuits à la cuillère. Les arroser d'un
 sirop au Kirsch ou au Rhum et versez dessus la crème chaude qu'importe le parfum.
 
-*source* : Inconnue
+*Source* : Inconnue

@@ -8,12 +8,12 @@ temps de préparation : 1h + 3h au freezer
 
 pour 6 personnes
 
-500 grammes de sucre
-50cl de crème fouettée
-500 grammes de fraise
-100 gramme d'amande
-1 verre de liqueur de Kirsch
-10 blancs d'œufs
+* 500 grammes de sucre
+* 50cl de crème fouettée
+* 500 grammes de fraise
+* 100 gramme d'amande
+* 1 verre de liqueur de Kirsch
+* 10 blancs d'œufs
 
 ## Préparation
 
@@ -34,4 +34,4 @@ Mettez dans le freezer pendant 3 heures. Au moment de servir, retirer
 délicatement le papier dépassant. Saupoudrez le dessus d'amandes fraiches
 hachées et poilées.
 
-*Source* Echo de la mode, numéro 22, 1-7 juin 1969
+*Source :* Echo de la mode, numéro 22, 1-7 juin 1969

@@ -9,14 +9,14 @@ Cuisson : 30 minutes
 
 Pour 6 personnes
 
-125 grammes de beurre
-3 œufs
-200 grammes de sucre en poudre
-250 grammes de farine
-100 grammes de chocolat à croquer
-1 tasse à thé de lait
-sucre glace
-un demi paquet de levure chimique
+* 125 grammes de beurre
+* 3 œufs
+* 200 grammes de sucre en poudre
+* 250 grammes de farine
+* 100 grammes de chocolat à croquer
+* 1 tasse à thé de lait
+* sucre glace
+* un demi paquet de levure chimique
 
 ## Préparation
 
@@ -40,4 +40,4 @@ Vérifiez la cuisson en piquant le gâteau en son centre avec une aiguille à
 tricoter.
 Démoulez tiède, saupoudrez de sucre glace.
 
-*source* Petit echo de la mode, numéro 44, 3/9 novembre 1969
+*Source :* Petit echo de la mode, numéro 44, 3/9 novembre 1969

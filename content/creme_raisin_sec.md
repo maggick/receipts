@@ -4,11 +4,11 @@ Date: 1970-03-04
 
 ## Ingrédients
 
-150 grammes de raisins sec
-5cl de rhum
-3 jaunes d'œufs
-15 grammes de maïzena
-50 cl de lait
+* 150 grammes de raisins sec
+* 5cl de rhum
+* 3 jaunes d'œufs
+* 15 grammes de maïzena
+* 50 cl de lait
 
 ## Préparation :
 
@@ -18,4 +18,4 @@ grammes de Maïzena, 1/2 litre de lait additionné du jus de macération des
 raisins. [todo nouvelle recette : faire une crème anglaise]
 Sucré à volonté.
 
-*source* Femmes d'aujourd'hui, numéro 1296 du 4 mars 1970
+*Source :* Femmes d'aujourd'hui, numéro 1296 du 4 mars 1970

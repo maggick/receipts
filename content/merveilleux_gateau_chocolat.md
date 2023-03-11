@@ -9,18 +9,18 @@ Pas de cuisson
 
 Pour 10 personnes
 
-6 jaunes d'œufs
-1 tasse de lait
-Une cuillerée à soupe de sucre
-250 grammes de beurre
-250 grammes de chocolat
-12 à 14 biscuits à la cuiller
+* 6 jaunes d'œufs
+* 1 tasse de lait
+* Une cuillerée à soupe de sucre
+* 250 grammes de beurre
+* 250 grammes de chocolat
+* 12 à 14 biscuits à la cuiller
 
 Pour sauce anglaise :
-125 grammes de sucre en poudre
-4 jaunes d'œufs
-un quart de litre de lait
-une demie gousse de vanille
+* 125 grammes de sucre en poudre
+* 4 jaunes d'œufs
+* un quart de litre de lait
+* une demie gousse de vanille
 
 ## Préparation
 
@@ -44,4 +44,4 @@ vanille. Délayer. Mettez sur le feu en tournant avec une spatule. Arrêtez just
 avant ébullition. Filtrez le mélange pour obtenir une sauce plus épaisse,
 ajoutez une demie cuillerée à café de fécule au sucre.
 
-*source* Petit echo de la mode, numéro 50, 28/12/1969//03/01/1970
+*Source :* Petit echo de la mode, numéro 50, 28/12/1969//03/01/1970

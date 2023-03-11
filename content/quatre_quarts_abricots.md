@@ -9,21 +9,21 @@ Cuisson : 45 minutes
 
 Pour 6 personnes
 
-3 œufs
-Le poids des 3 œufs en sucre
-Le poids des 3 œufs en farine
-Le poids des 3 œufs en beurre
-1 zeste de citron
-une boite d'abricot au sirop
+* 3 œufs
+* Le poids des 3 œufs en sucre
+* Le poids des 3 œufs en farine
+* Le poids des 3 œufs en beurre
+* 1 zeste de citron
+* une boite d'abricot au sirop
 
 ### Crème
 
-33 cl de lait [illisible]
-2 jaunes d'œufs
-une cuillère à soupe de farine
-75 grammes de sucre
-1 sachet de sucre vanillé
-150 grammes de crème fraiche
+* 33 cl de lait [illisible]
+* 2 jaunes d'œufs
+* une cuillère à soupe de farine
+* 75 grammes de sucre
+* 1 sachet de sucre vanillé
+* 150 grammes de crème fraiche
 
 ## Préparation
 
@@ -50,4 +50,4 @@ Mettez un peu de crème sur le dessus du gâteau.
 Disposez des demis abricots et décorez de chantilly faite en montant la crème
 fraiche avec 25 grammes de sucre et un peu d'eau.
 
-*source* Petit echo de la mode, numéro 16, 20/26 avril 1969
+*Source :* Petit echo de la mode, numéro 16, 20/26 avril 1969

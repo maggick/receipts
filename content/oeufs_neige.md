@@ -9,9 +9,9 @@ Cuisson : 10 minutes
 
 Pour 4 personnes
 
-4 œufs
-1 tasse de sucre
-3 grandes tasses de lait
+* 4 œufs
+* 1 tasse de sucre
+* 3 grandes tasses de lait
 
 ## Préparation
 
@@ -30,4 +30,4 @@ muscade.
 
   Note de l'auteur : Au canada, j'ai vu remplacer le sucre par du sirop d'érable.
 
-*source* Petit echo de la mode, numéro 41, 13/19 octobre 1969
+*Source :* Petit echo de la mode, numéro 41, 13/19 octobre 1969
