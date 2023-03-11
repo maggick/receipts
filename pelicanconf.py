@@ -4,12 +4,12 @@ from __future__ import unicode_literals
 
 AUTHOR = 'maggick'
 SITENAME = 'Recettes d\'arrière grand-mère'
-SITEURL = ''
+SITEURL = 'https://maggick.fr/receipts'
+SITETITLE = SITENAME
 
 PATH = 'content'
-
+RELATIVE_ULRS = True
 TIMEZONE = 'Europe/Paris'
-
 DEFAULT_LANG = 'fr'
 
 # Feed generation is usually not desired when developing
@@ -19,15 +19,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),)
-
-# Social widget
-#SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
-
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+STATIC_PATHS = ['extra/.nojekyll']
+
