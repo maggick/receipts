@@ -1,5 +1,5 @@
 Title: Dessert Saint Valentin
-Category: Dessert
+Category: Desserts
 Date: 1970-01-01
 
 Préparation : 10 minutes

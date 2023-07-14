@@ -1,5 +1,5 @@
 Title: Passion pudim
-Category: Dessert
+Category: Desserts
 Date: 2023-05-19
 
 Préparation : 50 minutes

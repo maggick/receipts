@@ -1,5 +1,5 @@
 Title: Une journée gravée dans le marbré 
-Category: Dessert
+Category: Desserts
 Date: 2023-05-26
 
 Préparation : 20 minutes
