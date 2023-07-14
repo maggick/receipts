@@ -1,5 +1,5 @@
 Title: Le sofregit catalan
-Category: Sauce
+Category: Sauces
 Date: 2023-06-23
 
 Préparation : 20 minutes

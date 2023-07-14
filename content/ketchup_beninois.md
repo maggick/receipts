@@ -1,5 +1,5 @@
 Title: Dja, le ketchup béninois 
-Category: Sauce
+Category: Sauces
 Date: 2023-03-10
 
 Préparation : 10 minutes

@@ -1,5 +1,5 @@
 Title: Faire son fumet de poisson
-Category: Sauce
+Category: Sauces
 Date: 2023-04-21
 
 Préparation : 20 minutes

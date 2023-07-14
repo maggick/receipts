@@ -1,5 +1,5 @@
 Title: Une sauce BBQ expresso bien serrée
-Category: Sauce
+Category: Sauces
 Date: 2023-04-21
 
 Préparation : 20 minutes

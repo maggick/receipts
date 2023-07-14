@@ -1,5 +1,5 @@
 Title: A quelle sauce la sardine sera-t-elle mangée?
-Category: Sauce
+Category: Sauces
 Date: 2023-06-09
 
 Préparation : 20 minutes

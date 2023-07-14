@@ -1,5 +1,5 @@
 Title: Une sauce sans cuisson
-Category: Sauce
+Category: Sauces
 Date: 2023-05-26
 
 Préparation : 20 minutes

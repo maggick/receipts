@@ -1,5 +1,5 @@
 Title: La moutarde, prenez-en de la graine
-Category: Sauce
+Category: Sauces
 Date: 2023-05-05
 
 Préparation : 20 minutes

@@ -1,5 +1,5 @@
 Title: Un tarama aux œufs de cabillaud fumés 
-Category: Sauce
+Category: Sauces
 Date: 2023-03-17
 
 Préparation : 10 minutes

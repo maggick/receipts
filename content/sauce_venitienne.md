@@ -1,5 +1,5 @@
 Title: Une sauce vénitienne pour se gondoler
-Category: Sauce
+Category: Sauces
 Date: 2023-04-07
 
 Préparation : 10 minutes

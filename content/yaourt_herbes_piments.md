@@ -1,5 +1,5 @@
 Title: Du yaourt, des herbes et du piment
-Category: Sauce
+Category: Sauces
 Date: 2023-05-12
 
 Préparation : 20 minutes

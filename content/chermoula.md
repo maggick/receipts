@@ -1,5 +1,5 @@
 Title: La chermoula, association de bienfaiteurs
-Category: Sauce
+Category: Sauces
 Date: 2023-03-31
 
 Préparation : 10 minutes
