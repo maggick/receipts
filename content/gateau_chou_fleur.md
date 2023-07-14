@@ -1,5 +1,5 @@
-Title: La moutarde, prenez-en de la graine
-Category: Sauce
+Title: Chou-fleur pour petit choux
+Category: Plat
 Date: 2023-05-05
 
 Préparation : 20 minutes
