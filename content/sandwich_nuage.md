@@ -1,5 +1,5 @@
 Title: Un sandwich comme un nuage
-Category: Plat
+Category: Plats
 Date: 2023-06-23
 
 Préparation : 20 minutes

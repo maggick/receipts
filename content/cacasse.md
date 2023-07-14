@@ -1,5 +1,5 @@
 Title: Une cacasse à cul nu pour cacasser la baraque
-Category: Plat
+Category: Plats
 Date: 2023-05-12
 
 Préparation : 20 minutes

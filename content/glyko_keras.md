@@ -1,5 +1,5 @@
 Title: Un glyko kerasi pour se refaire la cerise
-Category: Plat
+Category: Plats
 Date: 2023-06-09
 
 Préparation : 20 minutes

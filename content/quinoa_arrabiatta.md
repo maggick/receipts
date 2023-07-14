@@ -1,5 +1,5 @@
 Title: Quinoa a l’arrabiatta et crevettes, fâché tout rouge
-Category: Plat
+Category: Plats
 Date: 2023-03-31
 
 Préparation : 20 minutes

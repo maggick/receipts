@@ -1,5 +1,5 @@
 Title: Chou-fleur pour petit choux
-Category: Plat
+Category: Plats
 Date: 2023-05-05
 
 Préparation : 20 minutes

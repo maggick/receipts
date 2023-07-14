@@ -1,5 +1,5 @@
 Title: Y'a pas de saison pour les tourtons
-Category: Plat
+Category: Plats
 Date: 2023-06-02
 
 Préparation : 20 minutes

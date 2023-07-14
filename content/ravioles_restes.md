@@ -1,5 +1,5 @@
 Title: Quand le reste va de traviole, ravioles de restes!
-Category: Plat
+Category: Plats
 Date: 2023-05-26
 
 Préparation : 20 minutes

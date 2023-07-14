@@ -1,5 +1,5 @@
 Title: Rumbledethumps: chérie j'ai cuisiné l'Ecosse
-Category: Plat
+Category: Plats
 Date: 2023-04-28
 
 Préparation : 20 minutes

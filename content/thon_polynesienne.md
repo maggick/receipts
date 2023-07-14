@@ -1,5 +1,5 @@
 Title: Thon qu'à faire, un poisson à la polynésienne
-Category: Plat
+Category: Plats
 Date: 2023-04-21
 
 Préparation : 120 minutes

@@ -1,5 +1,5 @@
 Title: La salade a la patate
-Category: Plat
+Category: Plats
 Date: 2023-06-30
 
 Préparation : 20 minutes
